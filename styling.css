@@ -1,0 +1,416 @@
+.zaglavie {
+    font-size:35px;
+    font-style: bold;
+}
+
+
+.Musk {
+    font-size:18px;
+    text-align: center;
+    padding-left: 9%;
+    padding-right: 9%;
+
+}
+
+.name {
+    font-style: bold;
+}
+
+.link {
+    font-size:18px;
+    text-decoration:none;
+    
+}
+
+.Jeff {
+    font-size:18px;
+    text-align: center;
+    padding-left: 8%;
+    padding-right: 8%;
+}
+
+.edno {
+    font-size:18px;
+    text-align: justify;
+    padding-left: 4%;
+    padding-right: 4%;
+}
+
+.dve {
+    font-size:18px;
+    text-align: justify;
+    padding-left: 4%;
+    padding-right: 4%;
+}
+
+.tri {
+    font-size:18px;
+    text-align: justify;
+    padding-left: 4%;
+    padding-right: 4%;
+}
+
+.chetiri {
+    font-size:18px;
+    text-align: justify;
+    padding-left: 4%;
+    padding-right: 4%;
+}
+
+.pet {
+    font-size:18px;
+    text-align: justify;
+    padding-left: 4%;
+    padding-right: 4%;
+}
+
+.shest {
+    font-size:18px;
+    text-align: justify;
+    padding-left: 4%;
+    padding-right: 4%;
+}
+
+.sedem {
+    font-size:18px;
+    text-align: justify;
+    padding-left: 4%;
+    padding-right: 4%;
+}
+
+.Jeff1 {
+    font-size:18px;
+    text-align: center;
+    padding-left: 4%;
+    padding-right: 4%;
+}
+
+.Jeff2 {
+    font-size:18px;
+    text-align: justify;
+    padding-left: 4%;
+    padding-right: 4%;
+}
+
+.Ben1 {
+    font-size:18px;
+    text-align: justify;
+    padding-left: 4%;
+    padding-right: 4%;
+}
+
+
+.Ben2 {
+    font-size:18px;
+    text-align: justify;
+    padding-left: 4%;
+    padding-right: 4%;
+}  
+
+.Ben3 {
+    font-size:18px;
+    text-align: justify;
+    padding-left: 4%;
+    padding-right: 4%;
+}  
+
+.Ben4 {
+    font-size:18px;
+    text-align: justify;
+    padding-left: 4%;
+    padding-right: 4%;
+}  
+
+.Bill1 {
+    font-size:18px;
+    text-align: justify;
+    padding-left: 4%;
+    padding-right: 4%;
+}
+
+.Bill2 {
+    font-size:18px;
+    text-align: justify;
+    padding-left: 4%;
+    padding-right: 4%; 
+}
+
+.Bill3 {
+    font-size:18px;
+    text-align: justify;
+    padding-left: 4%;
+    padding-right: 4%;  
+}
+
+.Bill4 {
+    font-size:18px;
+    text-align: justify;
+    padding-left: 4%;
+    padding-right: 4%;  
+}
+
+.Mark1 {
+    font-size:18px;
+    text-align: justify;
+    padding-left: 4%;
+    padding-right: 4%;
+}
+
+.Mark2 {
+    font-size:18px;
+    text-align: justify;
+    padding-left: 4%;
+    padding-right: 4%;
+}
+
+.Mark3 {
+    font-size:18px;
+    text-align: justify;
+    padding-left: 4%;
+    padding-right: 4%;
+}
+
+.Mark4 {
+    font-size:18px;
+    text-align: justify;
+    padding-left: 4%;
+    padding-right: 4%;
+}
+
+.background {
+    background-color: #72c6ed;
+}
+
+.background2 {
+    background-color: #72c6ed;
+}
+
+.background3 {
+    background-color: #72c6ed;
+}
+
+.background4 {
+    background-color: #72c6ed;
+}
+
+.background5 {
+    background-color: #72c6ed;
+}
+
+.jeffkata {
+    background-color: #72c6ed;
+}
+
+.edno1 {
+    background-color:#1E90FF;
+    border-radius: 10px;
+    font-weight: ;
+    margin-right: ;
+    padding-bottom: 6px;
+    padding-top: 6px;
+    margin-right: 10px;
+    right: 10px;
+    transition: all 1s;
+}
+
+.edno2 {
+    background-color:#1E90FF;
+    border-radius: 10px;
+    font-weight: ;
+    margin-right: ;
+    padding-bottom: 6px;
+    padding-top: 6px;
+    margin-right: 10px;
+    right: 10px;
+    transition: all 1s;
+}
+
+.edno3 {
+    background-color:#1E90FF;
+    border-radius: 10px;
+    font-weight: ;
+    margin-right: ;
+    padding-bottom: 6px;
+    padding-top: 6px;
+    margin-right: 10px;
+    right: 10px;
+    transition: all 1s;
+}
+
+.edno4 {
+    background-color:#1E90FF;
+    border-radius: 10px;
+    font-weight: ;
+    margin-right: ;
+    padding-bottom: 6px;
+    padding-top: 6px;
+    margin-right: 10px;
+    right: 10px;
+    transition: all 1s;
+}
+
+.edno5 {
+    background-color:#1E90FF;
+    border-radius: 10px;
+    font-weight: ;
+    margin-right: ;
+    padding-bottom: 6px;
+    padding-top: 6px;
+    margin-right: 10px;
+    right: 10px;
+    transition: all 1s;
+}
+
+.blackjeff {
+    border-radius: 10PX;
+}
+
+.vsichko {
+    padding-bottom: 150px;
+    margin:0 ;
+    margin-top: -120px;
+}
+
+.elon {
+    border-radius: 10px;
+}
+
+.bernar {
+    border-radius: 10px;
+}
+
+.bil {
+    border-radius: 10px;
+}
+
+.j1 {
+    border-radius: 10px;
+}
+
+.j2 {
+    border-radius: 10px;
+}
+
+.e1 {
+    border-radius: 10px;
+}
+
+.e2 {
+    border-radius: 10px;
+}
+
+.e3 {
+    border-radius: 10px;
+}
+
+.e4 {
+    border-radius: 10px;
+}
+
+.e5 {
+    border-radius: 10px;
+}
+
+.e6 {
+    border-radius: 10px;
+}
+
+.e7 {
+    border-radius: 10px;
+}
+
+.b1 {
+    border-radius: 10px;
+}
+
+.b2 {
+    border-radius: 10px;
+}
+
+.b3 {
+    border-radius: 10px;
+}
+
+.b4 {
+    border-radius: 10px;
+}
+
+.bi1 {
+    border-radius: 10px;
+}
+
+.bi2 {
+    border-radius: 10px;
+}
+
+.bi3 {
+    border-radius: 10px;
+}
+
+.bi4 {
+    border-radius: 10px;
+}
+
+.marko {
+    border-radius: 10px;
+}
+
+.m1 {
+    border-radius: 10px;
+}
+
+.m2 {
+    border-radius: 10px;
+}
+
+.m3 {
+    border-radius: 10px;
+}
+
+.m4 {
+    border-radius: 10px;
+}
+
+.mqsto {
+    margin-top: -45px;
+}
+
+.mqsto1 {
+    margin-top: -45px;
+}
+
+.mqsto2 {
+    margin-top: -45px;
+}
+
+.mqsto3 {
+    margin-top: -45px;
+}
+
+.mqsto4 {
+    margin-top: -45px;
+}
+
+.gore {
+    background-color:#1E90FF;
+    border-radius: 10px;
+    font-weight: ;
+    margin-right: ;
+    padding-bottom: 6px;
+    padding-top: 6px;
+    margin-right: 10px;
+    right: 10px;
+    transition: all 1s;
+}
+
+.Insta {
+    text-align: right;
+}
+
+.niki {
+ text-decoration: none;
+}
+
+.plik4o {
+    text-decoration: none;
+}
